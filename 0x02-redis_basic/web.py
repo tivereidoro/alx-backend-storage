@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-""" Redis Module:
 
-In this tasks, we will implement a get_page function
-(prototype: def get_page(url: str) -> str:). The core of
-the function is very simple. It uses the requests module
+'''
+Redis Module: get_page function
+(prototype: def get_page(url: str) -> str:).
+
+The function uses the requests module
 to obtain the HTML content of a particular URL and returns it.
 
 Start in a new file named web.py and do not reuse the code
@@ -14,7 +15,8 @@ accessed in the key "count:{url}" and cache the result with
 an expiration time of 10 seconds.
 
 Tip: Use http://slowwly.robertomurray.co.uk to simulate
-a slow response and test your caching."""
+a slow response and test your caching.
+'''
 
 from functools import wraps
 import redis
