@@ -18,10 +18,12 @@ This repository consists of my Backend Storage projects done with [ALX Africa](h
 
 - [0x01](./0x01-NoSQL) : `NoSQL` meaning, how to query information from a `NoSQL` database, and how to use `MongoDB`.
 
-<!--
 - [0x02](./0x02-redis_basic) : How to use `redis` for basic operations and as a simple cache.
+
+<!--
 - [0x03](./0x03-ES6_data_manipulation) : Map, filter and reduce.
-- [0x04](./0x04-TypeScript) : Types, Interfaces, Classes, Functions. -->
+- [0x04](./0x04-TypeScript) : Types, Interfaces, Classes, Functions.
+-->
 
 ---
 #### Code Editor used: Mostly `VS-Code`; also  `Vim`
